@@ -1,7 +1,3 @@
-# ModelosLLM
-Guía en Español de los TOP LLM  (grandes modelos lenguaje; Large Language Models)  para inteligencia artificial disponibles
-
-
 # Modelos de Lenguaje de Aprendizaje Automático Abiertos (Open LLMs)
 
 Estos modelos de lenguaje de aprendizaje automático (LLMs, por sus siglas en inglés) están todos licenciados para uso comercial (por ejemplo, Apache 2.0, MIT, OpenRAIL-M). ¡Las contribuciones son bienvenidas!
